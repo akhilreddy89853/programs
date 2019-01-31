@@ -6,7 +6,8 @@ int main() {
     scanf("%d",  &Number1);
     printf("Enter the second number: ");
     scanf("%d",  &Number2);
-    sum = Number1 + Number2;
-    Printf("The sum of  %d and %d is %d.", Number1, Number2, sum);
+    Sum = Number1 + Number2;
+    printf("The sum of  %d and %d is %d.", Number1, Number2, Sum);
+    printf("\n");
     return 0;
 }
